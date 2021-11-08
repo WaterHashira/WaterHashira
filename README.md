@@ -1,4 +1,4 @@
-- 👋 Hi, myself Lakshay Chudhary
+- 👋 Hi, myself Lakshay Chaudhary
 - ✨ I'm an experienced Flutter, Firebase and Blockchain developer
 - 👀 I’m interested in learning latest technologies and improving myself 
 - 💞️ I’m looking to collaborate on projects regrding Flutter, Firebase and Blockchain
